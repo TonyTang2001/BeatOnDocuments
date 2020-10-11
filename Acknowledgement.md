@@ -25,3 +25,9 @@ Its flexibility makes dealing with network APIs a breeze, accelerates Beat On's 
 
 It ensures a reliable layer between Apple Music API and UI/UX development of Beat On. 
 
+
+---
+
+**Copyright © 2020 Tony Tang**
+
+---
