@@ -8,7 +8,7 @@
 ### Alamofire
 [Alamofire](https://github.com/Alamofire/Alamofire) is an HTTP networking library written in Swift. 
 
-Its outstanding performance and network heavy-lifting helps Beat On to construct a solid network foundation.
+Its outstanding performance and network heavy-lifting help Beat On to construct a solid network foundation.
 
 ### Kingfisher
 [Kingfisher](https://github.com/onevcat/Kingfisher) is a powerful, pure-Swift library for downloading and caching images from the web. It provides you a chance to use a pure-Swift way to work with remote images in your next app.
