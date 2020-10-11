@@ -5,7 +5,7 @@
 
 The document presented is for purpose of providing information regarding the privacy policy of the software application **Beat On** on Apple's platforms. The content of this document is written as-is and on behalf of the state of the software application upon the time of release.
 
-This is not a document drafted for law-enforcement purposes. This document does not have legal effects. The developer reserves the right of final interpretation for this documentation.
+This is not a document drafted for law-enforcement purposes. This document does not have legal effects. The developer reserves the right of final interpretation for this document.
 
 ---
 
